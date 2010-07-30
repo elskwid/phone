@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name    = 'elskwid-phone'
-  s.version = '0.9.9.2'
+  s.version = '0.9.9.3'
   s.date    = '2010-07-29'
   
   s.summary = "Phone number parsing, validation and formatting"
@@ -28,11 +28,13 @@ Gem::Specification.new do |s|
     test/phone_test.rb 
     test/test_helper.rb 
     test/countries/ba_test.rb 
+    test/countries/be_test.rb 
     test/countries/de_test.rb 
     test/countries/fr_test.rb 
     test/countries/gb_test.rb 
     test/countries/hr_test.rb 
     test/countries/hu_test.rb 
+    test/countries/nl_test.rb 
     test/countries/rs_test.rb 
     test/countries/se_test.rb 
     test/countries/si_test.rb 
@@ -46,11 +48,13 @@ Gem::Specification.new do |s|
     test/phone_test.rb 
     test/test_helper.rb 
     test/countries/ba_test.rb 
+    test/countries/be_test.rb 
     test/countries/de_test.rb 
     test/countries/fr_test.rb 
     test/countries/gb_test.rb 
     test/countries/hr_test.rb 
     test/countries/hu_test.rb 
+    test/countries/nl_test.rb 
     test/countries/rs_test.rb 
     test/countries/se_test.rb 
     test/countries/si_test.rb 
